@@ -12,7 +12,7 @@ Este repositório contém um arquivo `docker-compose.yml` para configurar um amb
 1.  **Clone este repositório:**
 
     ```bash
-    git clone <URL_DO_SEU_REPOSITÓRIO>
+    git clone <URL_DO_SEU_REPOSITÓRIO](https://github.com/richardvepogg/DockerSonarQube>
     cd <NOME_DO_REPOSITÓRIO>
     ```
 
